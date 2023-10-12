@@ -1,3 +1,3 @@
 # Python Assignments and solution
 
-In this Github repository, I have solved some basic python assignmnet problems during the couse of my data science.
+This GitHub repository contains a collection of Python assignments and their solutions. Whether you're a beginner looking to practice your Python skills or an experienced developer looking for challenging problems, this repository has something for you.
